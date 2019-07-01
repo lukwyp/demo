@@ -1,4 +1,2 @@
 [
-		{"frame_id": 1808, "timestamp": 1559893277128, "data": {"PDM_Current_Coil": 0.4, "PDM_Current_Harness": 0.9, "PDM_Current_Pump": 0.0, "PDM_Current_Fan": 0.0, "PDM_Temperature_1": 26, "PDM_Temperature_2": 26, "PDM_Temperature_3": 26, "PDM_Temperature_4": 27}},
-		{"frame_id": 1029, "timestamp": 1559893277515, "data": {"Air_Tank_Pressure": 8.6, "Brake_Pressure_Rear": 67, "ACAN_Coolant_Pressure": 0.4, "Engine_Coolant_Temperature_AR": 0.30000000000000004}},
-	]
+		{"frame_id": 1808, "timestamp": 1559893277128, "data": {"PDM_Current_Coil": 0.4, "PDM_Current_Harness": 0.9, "PDM_Current_Pump": 0.0, "PDM_Current_Fan": 0.0, "PDM_Temperature_1": 26, "PDM_Temperature_2": 26, "PDM_Temperature_3": 26, "PDM_Temperature_4": 27}}]
