@@ -1,2 +1,1 @@
-[
-		{"frame_id": 1808, "timestamp": 1559893277128, "data": {"PDM_Current_Coil": 0.4, "PDM_Current_Harness": 0.9, "PDM_Current_Pump": 0.0, "PDM_Current_Fan": 0.0, "PDM_Temperature_1": 26, "PDM_Temperature_2": 26, "PDM_Temperature_3": 26, "PDM_Temperature_4": 27}}]
+{"frame_id": 1808, "timestamp": 1559893277128}
